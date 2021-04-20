@@ -16,17 +16,16 @@ public class ObjLocator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Ray ray = new Ray(transform.position, transform.TransformDirection(Vector3.forward));
         RaycastHit hit;
-        Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.forward) * dist, Color.green);
-        if (Physics.Raycast(ray, out hit, dist, layerMask))
+        if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, dist, layerMask))
         {
            
             selection = hit.transform;
             if (selection != null)
             {
                 //                Debug.Log(" *** ");
-                Debug.Log(" Name =" + selection.gameObject.name);                
+                Debug.Log(" Name =" + selection.gameObject.name);
+                Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.forward) * hit.distance, Color.green);
                 IInteractable interactable = selection.GetComponent<IInteractable>();
                 if  (Input.GetKeyDown(KeyCode.E))
                 {
