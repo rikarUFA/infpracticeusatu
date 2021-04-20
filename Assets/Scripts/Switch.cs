@@ -6,6 +6,7 @@ public class Switch : MonoBehaviour, IInteractable
 {
     IInteractable interactable;
     public bool frot = true;
+    int k;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,20 +19,22 @@ public class Switch : MonoBehaviour, IInteractable
         if (frot)
         {
             Interact();
-            frot = false;
+            frot = false;            
         }
         
     }
     public void Interact()
     {
         //frot = true;
-        transform.Rotate(0, 0, -120, Space.World);
+        transform.Rotate(0, 0, -45, Space.World);
         Debug.Log("Switch interact");
+       
+        //Debug.Log(k);
         //frot = !frot;
         //(0, 15, 0, Space.World);
 
         //else transform.Rotate(0, 0, 0, Space.World);
 
-        
+
     }
 }
