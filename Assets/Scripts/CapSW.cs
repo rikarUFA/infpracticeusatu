@@ -28,7 +28,7 @@ public class CapSW : MonoBehaviour, IInteractable
     public void Interact()
     {
         //frot = true;
-        cap.Rotate(90, 0, 0, Space.World);
+        cap.Rotate(180, 0, 0, Space.World);
         Debug.Log("Cap interact");
         fopen = !fopen;
         //(0, 15, 0, Space.World);
