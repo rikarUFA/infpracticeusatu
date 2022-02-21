@@ -28,7 +28,7 @@ public class ObjLocator : MonoBehaviour
                 //                Debug.Log(" *** ");
                 Debug.Log(" Name =" + selection.gameObject.name);                
                 IInteractable interactable = selection.GetComponent<IInteractable>();
-                if  (Input.GetKeyDown(KeyCode.E))
+                if  ((interactable != null) && Input.GetKeyDown(KeyCode.E))
                 {
                     interactable.Interact();
                 }

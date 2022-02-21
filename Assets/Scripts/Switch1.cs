@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Switch : MonoBehaviour, IInteractable
+public class Switch1 : MonoBehaviour, IInteractable
 {
     IInteractable interactable;
     public bool frot = true;
@@ -26,8 +26,8 @@ public class Switch : MonoBehaviour, IInteractable
     public void Interact()
     {
         //frot = true;
-        transform.Rotate(0, -45, 0, Space.Self);
-        Debug.Log("Switch interact");
+        transform.Rotate(0, 90, 0, Space.Self);
+        Debug.Log("Switch1 interact");
 		
 		
        
