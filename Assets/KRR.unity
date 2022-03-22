@@ -12985,7 +12985,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 27eb42039f1edc243ae7bacd450f06b6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13040,7 +13040,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13089,7 +13089,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13210,12 +13210,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8118930943821846066}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.53175354, y: 0.19103813, z: 0.27475595}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0059280396, y: -0.35084534, z: 1.5246403}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 13
+  m_Father: {fileID: 9014092421624551055}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &119908497295309799
 MeshFilter:
@@ -13570,7 +13570,7 @@ GameObject:
   - component: {fileID: 5073128430843106684}
   - component: {fileID: 8507034444237039456}
   m_Layer: 0
-  m_Name: Box008
+  m_Name: RUSNPanel1.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14031,7 +14031,7 @@ GameObject:
   - component: {fileID: 333200880968442346}
   - component: {fileID: 7382758143980271261}
   m_Layer: 0
-  m_Name: Box022
+  m_Name: RUSNButton3.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14223,12 +14223,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8866667031261144061}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.22478485, y: 0.073135376, z: 0.069229364}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.00023269653, y: 0.051237106, z: 1.3229604}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 6
+  m_Father: {fileID: 8469893673704739550}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &384169848016404914
 GameObject:
@@ -14310,7 +14310,7 @@ GameObject:
   - component: {fileID: 8997103745610549620}
   - component: {fileID: 4337023215006153405}
   m_Layer: 0
-  m_Name: Box041
+  m_Name: RUSNPanel1.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14330,7 +14330,7 @@ Transform:
   - {fileID: 8278039410155169737}
   - {fileID: 2006504889438550692}
   m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 21
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &413788017247208542
 GameObject:
@@ -14671,7 +14671,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14895,7 +14895,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9108622448950786395}
   m_Layer: 0
-  m_Name: button001
+  m_Name: RUSNButton2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15462,7 +15462,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: abc9a54e3154f304d9401cb6898a4e59, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -15614,7 +15614,7 @@ GameObject:
   - component: {fileID: 2587977752289456014}
   - component: {fileID: 7221055212086186991}
   m_Layer: 0
-  m_Name: Box043
+  m_Name: RUSNPanel2.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15762,7 +15762,7 @@ GameObject:
   - component: {fileID: 910346997298245206}
   - component: {fileID: 3693667338557410118}
   m_Layer: 0
-  m_Name: Box021
+  m_Name: RUSNButton3.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16034,19 +16034,6 @@ Transform:
   m_Children:
   - {fileID: 8469893673704739550}
   - {fileID: 3464748784972977151}
-  - {fileID: 2401459782010312064}
-  - {fileID: 8276810546741877362}
-  - {fileID: 1905557115372469731}
-  - {fileID: 3631007373238415602}
-  - {fileID: 383850107019921393}
-  - {fileID: 1308421320546267518}
-  - {fileID: 3279479562087346826}
-  - {fileID: 2977066978108213133}
-  - {fileID: 7610297016536431952}
-  - {fileID: 4801316413505265400}
-  - {fileID: 8897098644787150835}
-  - {fileID: 1682030992641517852}
-  - {fileID: 2692503252189238502}
   - {fileID: 2476273303340179587}
   - {fileID: 2755761533962056849}
   - {fileID: 9108622448950786395}
@@ -16055,9 +16042,7 @@ Transform:
   - {fileID: 8600281282781791961}
   - {fileID: 408765848689602801}
   - {fileID: 4889695392742856428}
-  - {fileID: 4379811312879738168}
   - {fileID: 6726806805487086045}
-  - {fileID: 3002108444201658334}
   m_Father: {fileID: 543450652209962697}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -17415,7 +17400,7 @@ GameObject:
   - component: {fileID: 7325605425220230803}
   - component: {fileID: 5053291633834461255}
   m_Layer: 0
-  m_Name: Box032
+  m_Name: RUSNButton8.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17644,12 +17629,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3762498739173783241}
-  m_LocalRotation: {x: 0.7075125, y: 0, z: -0, w: 0.7067008}
-  m_LocalPosition: {x: 0.52931976, y: 0.1898632, z: 0.05066538}
+  m_LocalRotation: {x: 0.70751256, y: -0, z: -0, w: 0.70670086}
+  m_LocalPosition: {x: -0.0024337769, y: -0.0011749268, z: 0.06765747}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 25
+  m_Father: {fileID: 1981395819488770176}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1222668012709089075
 GameObject:
@@ -17845,11 +17830,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 384169848016404914}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.24874991, y: 0.17028616, z: -1.1826109}
+  m_LocalPosition: {x: -1.283, y: 0.17028616, z: -1.1826109}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 15
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1276603736524414309
 Transform:
@@ -17877,7 +17862,7 @@ GameObject:
   - component: {fileID: 3057669676175270277}
   - component: {fileID: 5230747355046086429}
   m_Layer: 0
-  m_Name: Box017
+  m_Name: RUSNButton1.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17895,7 +17880,7 @@ GameObject:
   - component: {fileID: 4706376727012454198}
   - component: {fileID: 2184780654685934645}
   m_Layer: 0
-  m_Name: Box019
+  m_Name: RUSNButton2.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17930,12 +17915,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8688584636153260586}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.22370529, y: 0.07219887, z: 0.1498909}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0013122559, y: 0.05030059, z: 1.4036219}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 7
+  m_Father: {fileID: 8469893673704739550}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1312476206278262885
 GameObject:
@@ -18177,13 +18162,27 @@ GameObject:
   - component: {fileID: 8278039410155169737}
   - component: {fileID: 741720105939256150}
   - component: {fileID: 8963123734694329410}
+  - component: {fileID: 1347775917742113774}
   m_Layer: 0
-  m_Name: Box027
+  m_Name: RUSNButton6.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &1347775917742113774
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1347775917742113773}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.18644449, y: 0.041111004, z: 0.13737515}
+  m_Center: {x: 0.0073394813, y: 0, z: 0.10445418}
 --- !u!33 &1350093612614424014
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -18419,7 +18418,7 @@ Transform:
   - {fileID: 1877925700995969516}
   - {fileID: 7123571325153719627}
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 17
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1394569251841054154
 Transform:
@@ -18637,7 +18636,7 @@ GameObject:
   - component: {fileID: 9048828521322711510}
   - component: {fileID: 2206022557166623228}
   m_Layer: 0
-  m_Name: Box036
+  m_Name: RUSNPanel1.2.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18662,7 +18661,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -18902,7 +18901,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19540,12 +19539,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7591730148090315057}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.5277443, y: -0.33054733, z: 0.2711408}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.002729416, y: -0.3508454, z: 1.5174099}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 13
+  m_Father: {fileID: 3464748784972977151}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1682779928108289804
 GameObject:
@@ -20097,7 +20096,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: b4be0e9683fa6824db72f6b8f6b987d9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -20268,7 +20267,7 @@ Transform:
   - {fileID: 1371907024451065778}
   - {fileID: 8832844750259055803}
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 19
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1863066156812706522
 MeshRenderer:
@@ -20471,7 +20470,7 @@ Transform:
   - {fileID: 2775262558617509944}
   - {fileID: 1384987466335260356}
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 23
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1898262827678896451
 GameObject:
@@ -20512,12 +20511,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4547234542531816989}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.2246666, y: 0.072711945, z: -0.5068101}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.00035095215, y: 0.050813735, z: 0.74692076}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 4
+  m_Father: {fileID: 8469893673704739550}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &1908061855713894971
 MeshFilter:
@@ -20874,12 +20873,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5054927676885290993}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.53175354, y: 0.19103813, z: -0.016992092}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0059280396, y: -0.3508453, z: 1.2328922}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 11
+  m_Children:
+  - {fileID: 1220943582187868367}
+  m_Father: {fileID: 9014092421624551055}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1988055904362754425
 GameObject:
@@ -20893,7 +20893,7 @@ GameObject:
   - component: {fileID: 4343534468444167867}
   - component: {fileID: 5463079781790997814}
   m_Layer: 0
-  m_Name: Box070
+  m_Name: RUSNPanel2.2.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21078,7 +21078,7 @@ GameObject:
   - component: {fileID: 2774015686597034197}
   - component: {fileID: 2842274824496194924}
   m_Layer: 0
-  m_Name: Cylinder001
+  m_Name: RUSNClick1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21103,7 +21103,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21284,7 +21284,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: ff00fa118a362834785db89d633c1249, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21354,7 +21354,7 @@ GameObject:
   - component: {fileID: 8246412672073643176}
   - component: {fileID: 3851136300587186496}
   m_Layer: 0
-  m_Name: Box074
+  m_Name: RUSNPanel2.2.6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21530,7 +21530,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21644,7 +21644,7 @@ GameObject:
   - component: {fileID: 3231695381683475925}
   - component: {fileID: 4131220634696574833}
   m_Layer: 0
-  m_Name: Box077
+  m_Name: RUSNShkaf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21845,7 +21845,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21886,7 +21886,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21998,7 +21998,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -22382,7 +22382,7 @@ GameObject:
   m_Component:
   - component: {fileID: 906832182646100307}
   m_Layer: 0
-  m_Name: Line002
+  m_Name: RUSNShkaf1.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22542,7 +22542,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3848429482049128314}
   m_Layer: 0
-  m_Name: button002
+  m_Name: RUSNButton4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22698,7 +22698,7 @@ GameObject:
   - component: {fileID: 5714848505929060682}
   - component: {fileID: 2096276590475152977}
   m_Layer: 0
-  m_Name: Box079
+  m_Name: RUSNShkaf2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22740,7 +22740,7 @@ GameObject:
   - component: {fileID: 999120374143067870}
   - component: {fileID: 7735100495086487696}
   m_Layer: 0
-  m_Name: Box034
+  m_Name: RUSNButton9.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23108,7 +23108,7 @@ Transform:
   - {fileID: 4986112188165120141}
   - {fileID: 6598115966696089332}
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 22
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &2393530290998507977
 MeshRenderer:
@@ -23190,12 +23190,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7056935904938802336}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.22373962, y: 0.072128296, z: -1.206416}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0012779236, y: 0.050230145, z: 0.047314763}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 2
+  m_Father: {fileID: 8469893673704739550}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &2422084578100671555
 MeshRenderer:
@@ -23468,7 +23468,7 @@ GameObject:
   m_Component:
   - component: {fileID: 389956438202198351}
   m_Layer: 0
-  m_Name: Line001
+  m_Name: RUSNShkaf1.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23548,11 +23548,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 398745023524460885}
   m_LocalRotation: {x: 0, y: 0, z: 0.0034332392, w: 0.9999941}
-  m_LocalPosition: {x: 0.25066453, y: -0.31492233, z: -1.1862261}
+  m_LocalPosition: {x: 1.21, y: -0.32, z: -1.19}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 15
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2480329732377006296
 MeshFilter:
@@ -23766,12 +23766,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1988055904362754425}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.53175354, y: 0.19103813, z: 0.8619448}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0059280396, y: -0.35084546, z: 2.1118293}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 10
+  m_Father: {fileID: 9014092421624551055}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2509308563604990493
 MeshFilter:
@@ -23961,7 +23961,7 @@ GameObject:
   - component: {fileID: 8308399286402245878}
   - component: {fileID: 6324160619117830889}
   m_Layer: 0
-  m_Name: Box011
+  m_Name: RUSNPanel1.1.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24508,12 +24508,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9003173710043187697}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.5291176, y: -0.35105515, z: -0.3447039}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.004102707, y: -0.37135315, z: 0.90156513}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 14
+  m_Father: {fileID: 3464748784972977151}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2692902992658844969
 GameObject:
@@ -24525,7 +24525,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8600281282781791961}
   m_Layer: 0
-  m_Name: button003
+  m_Name: RUSNButton5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24608,7 +24608,7 @@ GameObject:
   - component: {fileID: 8781404398276366479}
   - component: {fileID: 4481602381942912629}
   m_Layer: 0
-  m_Name: Box029
+  m_Name: RUSNButton7.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24665,7 +24665,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: ff00fa118a362834785db89d633c1249, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -24695,13 +24695,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8094504480611748076}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.054008484, y: -0.18517685, z: -1.0111442}
+  m_LocalPosition: {x: 0.054008484, y: -0.387, z: -1.011}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6927847181733141774}
   - {fileID: 8527617446096846282}
   m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 16
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &2762681634480551542
 Transform:
@@ -24959,12 +24959,6 @@ Transform:
   - {fileID: 478292366250044935}
   - {fileID: 6534435253679735941}
   - {fileID: 8451766738268451239}
-  - {fileID: 8597373889353997172}
-  - {fileID: 2507230662872696064}
-  - {fileID: 1981395819488770176}
-  - {fileID: 3857778755978409794}
-  - {fileID: 119759009466445441}
-  - {fileID: 7563435737745117978}
   - {fileID: 1274789855386827042}
   - {fileID: 6873183076658130718}
   - {fileID: 1394487006794519045}
@@ -24975,7 +24969,6 @@ Transform:
   - {fileID: 2391335474135833560}
   - {fileID: 1892304456612933293}
   - {fileID: 6901952657467511898}
-  - {fileID: 1220943582187868367}
   m_Father: {fileID: 543450652209962697}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -24998,7 +24991,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 27eb42039f1edc243ae7bacd450f06b6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -25168,7 +25161,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 8756e5a86d69cf94cb431c40f3fdec77, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -25650,12 +25643,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3320220625574558009}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.5277443, y: -0.33054733, z: 0.6622846}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.002729416, y: -0.35084546, z: 1.9085538}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 9
+  m_Father: {fileID: 3464748784972977151}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &2981814412854281392
 MeshRenderer:
@@ -25713,12 +25706,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2052193825757224032}
-  m_LocalRotation: {x: 0.70751244, y: 0, z: -0, w: 0.706701}
-  m_LocalPosition: {x: -0.53018, y: -0.33172226, z: 0.047050238}
+  m_LocalRotation: {x: 0.7075124, y: -0, z: -0, w: 0.7067009}
+  m_LocalPosition: {x: -0.0024356842, y: -0.0011749268, z: 0.06765747}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 25
+  m_Father: {fileID: 4801316413505265400}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3002703529017740138
 MeshFilter:
@@ -25830,7 +25823,7 @@ GameObject:
   - component: {fileID: 3534144348948752999}
   - component: {fileID: 6153461174486682166}
   m_Layer: 0
-  m_Name: Box018
+  m_Name: RUSNButton1.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26478,7 +26471,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -26534,7 +26527,7 @@ GameObject:
   - component: {fileID: 4836320416702234072}
   - component: {fileID: 5006963178661038189}
   m_Layer: 0
-  m_Name: Box009
+  m_Name: RUSNPanel1.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26791,7 +26784,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -26858,12 +26851,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7863648300714299927}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.2241211, y: 0.07378006, z: 0.7007122}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.00089645386, y: 0.05188173, z: 1.9544432}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 8
+  m_Father: {fileID: 8469893673704739550}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3283156536749643949
 MeshFilter:
@@ -27029,7 +27022,7 @@ GameObject:
   - component: {fileID: 3077999263552083010}
   - component: {fileID: 1527949836994614520}
   m_Layer: 0
-  m_Name: Box035
+  m_Name: RUSNPanel1.2.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27117,7 +27110,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: abc9a54e3154f304d9401cb6898a4e59, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -27532,7 +27525,7 @@ GameObject:
   - component: {fileID: 3456676709167020162}
   - component: {fileID: 7134538976389016769}
   m_Layer: 0
-  m_Name: Box069
+  m_Name: RUSNPanel2.2.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27560,7 +27553,7 @@ Transform:
   - {fileID: 7044791416526290654}
   - {fileID: 8341484997949338452}
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 18
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3462938903112718538
 MeshFilter:
@@ -27580,7 +27573,13 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.5250149, y: 0.020298004, z: -1.2462691}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 2977066978108213133}
+  - {fileID: 7610297016536431952}
+  - {fileID: 4801316413505265400}
+  - {fileID: 8897098644787150835}
+  - {fileID: 1682030992641517852}
+  - {fileID: 2692503252189238502}
   m_Father: {fileID: 776119145177412137}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -27675,7 +27674,7 @@ GameObject:
   - component: {fileID: 8126735602812113351}
   - component: {fileID: 2863803718485322940}
   m_Layer: 0
-  m_Name: Box024
+  m_Name: RUSNButton4.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28205,7 +28204,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -28328,12 +28327,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4660516664977019986}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.22462082, y: 0.07449341, z: -0.4379664}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.00039672852, y: 0.0525952, z: 0.8157645}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 5
+  m_Father: {fileID: 8469893673704739550}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &3633593467151499829
 Transform:
@@ -28510,7 +28509,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -28728,7 +28727,7 @@ GameObject:
   - component: {fileID: 6611528862728446052}
   - component: {fileID: 42105984660413953}
   m_Layer: 0
-  m_Name: Cylinder002
+  m_Name: RUSNClick2.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29067,7 +29066,7 @@ Transform:
   - {fileID: 6027856838573117386}
   - {fileID: 6919951926346345036}
   m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 19
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &3851136300587186496
 MeshRenderer:
@@ -29088,7 +29087,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -29133,12 +29132,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5512142628469630938}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.53175354, y: 0.19103813, z: 0.47437143}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0059280396, y: -0.35084537, z: 1.7242558}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 12
+  m_Father: {fileID: 9014092421624551055}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3863985518887571773
 GameObject:
@@ -29558,7 +29557,7 @@ Transform:
   - {fileID: 8173507334382875186}
   - {fileID: 7881754982833299461}
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 20
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3969067638746009745
 MeshFilter:
@@ -29971,7 +29970,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -30071,7 +30070,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -30112,7 +30111,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -30283,7 +30282,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -30718,7 +30717,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: abc9a54e3154f304d9401cb6898a4e59, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -30790,13 +30789,27 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 776119145177412137}
+  - component: {fileID: 4283117580235546506}
   m_Layer: 0
-  m_Name: Panel1
+  m_Name: RUSNPanel1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &4283117580235546506
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4283117580235546505}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3, y: 2, z: 3}
+  m_Center: {x: 0.5, y: 0, z: 0}
 --- !u!23 &4283821365423892606
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30989,7 +31002,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: ff00fa118a362834785db89d633c1249, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -31264,14 +31277,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5063569437746585685}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.3194046, y: -0.20209885, z: 0.42830682}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.1920166, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1805595928250667119}
   - {fileID: 5306527342033188894}
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 23
+  m_Father: {fileID: 4889695392742856428}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4383353755194461142
 GameObject:
@@ -31310,7 +31323,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -31679,7 +31692,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -31924,7 +31937,7 @@ GameObject:
   - component: {fileID: 8535085755340574185}
   - component: {fileID: 1368890089169878333}
   m_Layer: 0
-  m_Name: Box012
+  m_Name: RUSNPanel1.1.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32140,7 +32153,7 @@ GameObject:
   - component: {fileID: 2890209658407466462}
   - component: {fileID: 46536576376647166}
   m_Layer: 0
-  m_Name: Box023
+  m_Name: RUSNButton4.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32302,7 +32315,7 @@ GameObject:
   - component: {fileID: 3810391756280978975}
   - component: {fileID: 1109942231962581573}
   m_Layer: 0
-  m_Name: Box013
+  m_Name: RUSNPanel1.1.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32373,7 +32386,7 @@ GameObject:
   m_Component:
   - component: {fileID: 408765848689602801}
   m_Layer: 0
-  m_Name: button004
+  m_Name: RUSNButton6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32998,12 +33011,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6021407936388019058}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.5277443, y: -0.33054733, z: -0.020607233}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.002729416, y: -0.35084537, z: 1.2256619}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 11
+  m_Children:
+  - {fileID: 3002108444201658334}
+  m_Father: {fileID: 3464748784972977151}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4807284349185305197
 Transform:
@@ -33215,8 +33229,9 @@ Transform:
   m_Children:
   - {fileID: 7849299921467343599}
   - {fileID: 6978317858843370482}
+  - {fileID: 4379811312879738168}
   m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 22
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4891344010543798203
 Transform:
@@ -33464,7 +33479,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6532611054191412764}
   m_Layer: 0
-  m_Name: button1
+  m_Name: RUSNButton3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33564,7 +33579,7 @@ GameObject:
   - component: {fileID: 3462938903112718538}
   - component: {fileID: 4134945910122931724}
   m_Layer: 0
-  m_Name: Box071
+  m_Name: RUSNPanel2.2.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33612,7 +33627,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4379811312879738168}
   m_Layer: 0
-  m_Name: button006
+  m_Name: RUSNButton8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33829,7 +33844,7 @@ GameObject:
   - component: {fileID: 7481641834459645285}
   - component: {fileID: 6805383249103543245}
   m_Layer: 0
-  m_Name: Box020
+  m_Name: RUSNButton2.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34006,7 +34021,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -34363,7 +34378,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -34494,7 +34509,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6726806805487086045}
   m_Layer: 0
-  m_Name: button007
+  m_Name: RUSNButton9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34654,7 +34669,7 @@ GameObject:
   - component: {fileID: 101169736268765453}
   - component: {fileID: 158297967863946969}
   m_Layer: 0
-  m_Name: Box030
+  m_Name: RUSNButton7.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35207,7 +35222,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -35362,7 +35377,7 @@ GameObject:
   - component: {fileID: 8204352470354970793}
   - component: {fileID: 5283699486381288571}
   m_Layer: 0
-  m_Name: Box072
+  m_Name: RUSNPanel2.2.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35646,7 +35661,7 @@ GameObject:
   - component: {fileID: 3753264916517086028}
   - component: {fileID: 7222625647397968922}
   m_Layer: 0
-  m_Name: Box031
+  m_Name: RUSNButton8.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35794,7 +35809,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: f2015b5451a646f429121fe22dad96c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -36354,7 +36369,7 @@ Transform:
   - {fileID: 3687076950903391777}
   - {fileID: 1245721606077547112}
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 21
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &5775035434469636620
 MeshFilter:
@@ -37097,7 +37112,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -37279,7 +37294,7 @@ GameObject:
   - component: {fileID: 68783594255741516}
   - component: {fileID: 6428195440620735838}
   m_Layer: 0
-  m_Name: Box037
+  m_Name: RUSNPanel1.2.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37982,7 +37997,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 8756e5a86d69cf94cb431c40f3fdec77, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -38271,7 +38286,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: abc9a54e3154f304d9401cb6898a4e59, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -38792,7 +38807,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -38849,7 +38864,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -39031,7 +39046,7 @@ GameObject:
   - component: {fileID: 8301705470792146137}
   - component: {fileID: 3252321507538511862}
   m_Layer: 0
-  m_Name: Box089
+  m_Name: RUSNStand1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39067,7 +39082,7 @@ Transform:
   - {fileID: 6901109820427003582}
   - {fileID: 6940300478845494700}
   m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 18
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &6534435253679735941
 Transform:
@@ -39686,7 +39701,7 @@ Transform:
   - {fileID: 3961738802451319134}
   - {fileID: 2803120342055196532}
   m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 24
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &6736424624915094174
 Transform:
@@ -40010,7 +40025,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 7c18132e2d0407e4d88c9ea8d292d1fe, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -40115,7 +40130,7 @@ GameObject:
   - component: {fileID: 5234684711834560467}
   - component: {fileID: 5955781201108335958}
   m_Layer: 0
-  m_Name: Box033
+  m_Name: RUSNButton9.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40221,7 +40236,7 @@ Transform:
   - {fileID: 1316258795083157526}
   - {fileID: 7937260716749063395}
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 16
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6875814094267885083
 GameObject:
@@ -40235,7 +40250,7 @@ GameObject:
   - component: {fileID: 4656006945974527794}
   - component: {fileID: 5655270226510770599}
   m_Layer: 0
-  m_Name: Box088
+  m_Name: RUSNStand2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40381,7 +40396,7 @@ Transform:
   - {fileID: 1394569251841054154}
   - {fileID: 7749311902421635262}
   m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 24
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &6902885518756537873
 MeshRenderer:
@@ -40520,7 +40535,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1278372773914880686}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.040340424, y: 0.0076084137, z: -0.029490352}
+  m_LocalPosition: {x: -0.040340424, y: 0.064, z: -0.029}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2755761533962056849}
@@ -40976,7 +40991,7 @@ GameObject:
   - component: {fileID: 5277151495670731902}
   - component: {fileID: 219134036830620464}
   m_Layer: 0
-  m_Name: Box010
+  m_Name: RUSNPanel1.1.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -41249,7 +41264,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -41535,7 +41550,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -42114,7 +42129,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 8756e5a86d69cf94cb431c40f3fdec77, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -42758,13 +42773,27 @@ GameObject:
   - component: {fileID: 6736424624915094174}
   - component: {fileID: 3780969590755385502}
   - component: {fileID: 4157688774983821736}
+  - component: {fileID: 7508073438683700120}
   m_Layer: 0
-  m_Name: Box025
+  m_Name: RUSNButton5.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &7508073438683700120
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7508073438683700119}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.18644449, y: 0.041111004, z: 0.13737515}
+  m_Center: {x: 0.0073394813, y: 0, z: 0.10445418}
 --- !u!23 &7509288670664717220
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43016,12 +43045,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2117049777492292891}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.53038025, y: 0.17053032, z: -0.34108877}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0045547485, y: -0.3713531, z: 0.9087954}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 14
+  m_Father: {fileID: 9014092421624551055}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &7565674605458394176
 Transform:
@@ -43206,7 +43235,7 @@ GameObject:
   - component: {fileID: 4576616130491506857}
   - component: {fileID: 1452593703815433715}
   m_Layer: 0
-  m_Name: Box039
+  m_Name: RUSNPanel1.2.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43305,12 +43334,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1451654698964432261}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.5277443, y: -0.33054733, z: 0.85832953}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.002729416, y: -0.35084546, z: 2.1045988}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 10
+  m_Father: {fileID: 3464748784972977151}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7640358550508401753
 GameObject:
@@ -44376,7 +44405,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5577672807944278427}
   m_Layer: 0
-  m_Name: Box
+  m_Name: RUSNUnBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44402,7 +44431,7 @@ GameObject:
   - component: {fileID: 4306899310983957130}
   - component: {fileID: 6968313840029935563}
   m_Layer: 0
-  m_Name: Box016
+  m_Name: RUSNPanel1.1.7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44675,7 +44704,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45132,7 +45161,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: abc9a54e3154f304d9401cb6898a4e59, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45286,7 +45315,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2755761533962056849}
   m_Layer: 0
-  m_Name: button
+  m_Name: RUSNButton1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45414,7 +45443,7 @@ GameObject:
   - component: {fileID: 4330131891624305073}
   - component: {fileID: 453126656516625129}
   m_Layer: 0
-  m_Name: Box073
+  m_Name: RUSNPanel2.2.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45559,7 +45588,7 @@ GameObject:
   - component: {fileID: 8848745477465295245}
   - component: {fileID: 4727589289187568047}
   m_Layer: 0
-  m_Name: Box076
+  m_Name: RUSNPanel3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45915,12 +45944,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2566534399104400089}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.22468185, y: 0.07266235, z: -0.8508824}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.00033569336, y: 0.050764203, z: 0.40284836}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 3
+  m_Father: {fileID: 8469893673704739550}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &8278039410155169737
 Transform:
@@ -46074,7 +46103,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -46177,7 +46206,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: abc9a54e3154f304d9401cb6898a4e59, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -46757,7 +46786,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2840332096138583380}
   m_Layer: 0
-  m_Name: Panel2
+  m_Name: RUSNPanel2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -46882,7 +46911,14 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.22501755, y: 0.02189827, z: -1.253731}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 2401459782010312064}
+  - {fileID: 8276810546741877362}
+  - {fileID: 1905557115372469731}
+  - {fileID: 3631007373238415602}
+  - {fileID: 383850107019921393}
+  - {fileID: 1308421320546267518}
+  - {fileID: 3279479562087346826}
   m_Father: {fileID: 776119145177412137}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -47117,7 +47153,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: ff00fa118a362834785db89d633c1249, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -47181,7 +47217,7 @@ GameObject:
   - component: {fileID: 8523576957035899606}
   - component: {fileID: 9165169746841464172}
   m_Layer: 0
-  m_Name: Box078
+  m_Name: RUSNShkaf1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -47211,7 +47247,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3027020529997848906}
   m_LocalRotation: {x: -0.004828162, y: 0.0011598604, z: -0.23357986, w: 0.97232497}
-  m_LocalPosition: {x: -0.06073761, y: -0.0006580353, z: -0.0157215}
+  m_LocalPosition: {x: -0.06073761, y: 0.053, z: -0.016}
   m_LocalScale: {x: 1, y: 1, z: 1.0000001}
   m_Children: []
   m_Father: {fileID: 2755761533962056849}
@@ -47655,12 +47691,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3454468246454034120}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.53175354, y: 0.19103813, z: 0.66589975}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0059280396, y: -0.35084537, z: 1.9157841}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2840332096138583380}
-  m_RootOrder: 9
+  m_Father: {fileID: 9014092421624551055}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &8600281282781791961
 Transform:
@@ -47676,7 +47712,7 @@ Transform:
   - {fileID: 6736424624915094174}
   - {fileID: 3706809738812101940}
   m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 20
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8604785880703664965
 GameObject:
@@ -47916,7 +47952,7 @@ GameObject:
   - component: {fileID: 2452878618036147485}
   - component: {fileID: 2068290605863945593}
   m_Layer: 0
-  m_Name: Box015
+  m_Name: RUSNPanel1.1.6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48295,7 +48331,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: b4be0e9683fa6824db72f6b8f6b987d9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -48538,7 +48574,7 @@ GameObject:
   - component: {fileID: 1301576376600251667}
   - component: {fileID: 7433232285298343908}
   m_Layer: 0
-  m_Name: Box014
+  m_Name: RUSNPanel1.1.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48584,12 +48620,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9077613507817128520}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.5277443, y: -0.33054733, z: 0.4707563}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.002729416, y: -0.35084546, z: 1.7170255}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 12
+  m_Father: {fileID: 3464748784972977151}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8897240366995575043
 MeshFilter:
@@ -48691,13 +48727,27 @@ GameObject:
   - component: {fileID: 3706809738812101940}
   - component: {fileID: 8379479117074330398}
   - component: {fileID: 7966102332764448682}
+  - component: {fileID: 8939572959713353570}
   m_Layer: 0
-  m_Name: Box026
+  m_Name: RUSNButton5.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &8939572959713353570
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8939572959713353569}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.041427784, y: 0.072734326, z: 0.01591245}
+  m_Center: {x: 0, y: -0.00000047683716, z: 0.007956225}
 --- !u!23 &8940908375008769697
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48758,7 +48808,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: 6fc71c20f2444f24cbbd7a621940bfbb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -48832,7 +48882,7 @@ GameObject:
   - component: {fileID: 5264084018939794479}
   - component: {fileID: 4103544755447871718}
   m_Layer: 0
-  m_Name: Box040
+  m_Name: RUSNPanel1.2.6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48929,7 +48979,13 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.5258255, y: 0.54188347, z: -1.2498842}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 2507230662872696064}
+  - {fileID: 8597373889353997172}
+  - {fileID: 3857778755978409794}
+  - {fileID: 119759009466445441}
+  - {fileID: 1981395819488770176}
+  - {fileID: 7563435737745117978}
   m_Father: {fileID: 2840332096138583380}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -48996,13 +49052,27 @@ GameObject:
   - component: {fileID: 2006504889438550692}
   - component: {fileID: 6131582899427317231}
   - component: {fileID: 7887373287510318980}
+  - component: {fileID: 9062628976784070913}
   m_Layer: 0
-  m_Name: Box028
+  m_Name: RUSNButton6.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &9062628976784070913
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9062628976784070912}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.041427784, y: 0.072734326, z: 0.01591245}
+  m_Center: {x: 0, y: -0.00000047683716, z: 0.007956225}
 --- !u!1 &9062796414075266300
 GameObject:
   m_ObjectHideFlags: 0
@@ -49143,7 +49213,7 @@ GameObject:
   - component: {fileID: 5655512464530549990}
   - component: {fileID: 2191335515987124426}
   m_Layer: 0
-  m_Name: Box038
+  m_Name: RUSNPanel1.2.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -49317,7 +49387,7 @@ Transform:
   - {fileID: 5196427240660386826}
   - {fileID: 9072127530450264251}
   m_Father: {fileID: 776119145177412137}
-  m_RootOrder: 17
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &9109794898195599329
 MeshRenderer:
@@ -49533,7 +49603,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 0e3e7141ce38e2249ab767fc0bcf03d6, type: 3}
+  - {fileID: 2100000, guid: ff00fa118a362834785db89d633c1249, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -49701,7 +49771,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4889695392742856428}
   m_Layer: 0
-  m_Name: button005
+  m_Name: RUSNButton7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
