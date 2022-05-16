@@ -26,7 +26,7 @@ public class Switch : MonoBehaviour, IInteractable
     public void Interact()
     {
         //frot = true;
-        transform.Rotate(0, -45, 0, Space.Self);
+        transform.Rotate(90, 0, 0, Space.Self);
         Debug.Log("Switch interact");
 		
 		
