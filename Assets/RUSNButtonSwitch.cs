@@ -5,7 +5,7 @@ using UnityEngine;
 public class RUSNButtonSwitch : MonoBehaviour, IInteractable
 {
     // Start is called before the first frame update
-
+    IInteractable interactable;
     private float x;
     private float z;
     private bool rotateX;
