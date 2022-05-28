@@ -41,7 +41,7 @@ public class DB : MonoBehaviour
             connection.Close();
         }
     }
-    public void ActualActions(int id_sessions, int id_scenario, int id_parent, int id_child, string action, DateTime datetime, string nameOperation)
+    public void ActualActions(int id_sessions, int id_scenario, int? id_parent, int? id_child, string action, DateTime datetime, string nameOperation)
     {
         using (var connection = new SqliteConnection(dbname))
         {
