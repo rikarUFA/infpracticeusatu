@@ -33,11 +33,11 @@ public class ColliderPanel1 : MonoBehaviour
             // Insert values in table
             enter = true;
             Debug.Log("enter");
-            dB.ActualActions(1, 1, 2, 3, "O", DateTime.Now, "Выбрать Панель 1");
+            dB.ActualActions(1, 1, 2, 3, "O", DateTime.Now, "Р’С‹Р±СЂР°С‚СЊ РџР°РЅРµР»СЊ 1");
 
 
-            // куб idobject 1 
-            // шар idobject 2 
+            // пїЅпїЅпїЅ idobject 1 
+            // пїЅпїЅпїЅ idobject 2 
         }
     }
 

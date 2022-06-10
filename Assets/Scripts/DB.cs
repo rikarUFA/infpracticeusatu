@@ -15,8 +15,7 @@ public class DB : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //Training(1, 1, DateTime.Now, "Космос");
-       // Debug.Log("start");
+        //Deviation();
     }
 
     // Update is called once per frame
@@ -33,7 +32,7 @@ public class DB : MonoBehaviour
             using (var command = connection.CreateCommand())
             {
 
-                command.CommandText = "INSERT INTO 'Обучение' ('id Пользователя', 'id Сценария', 'Дата и время', 'Результат обучения') VALUES ('" + id_user + "', '" + id_scenario + "', '" + dateTime + "', '" + resultOfTraining + "');";
+                command.CommandText = "INSERT INTO 'РћР±СѓС‡РµРЅРёРµ' ('id РџРѕР»СЊР·РѕРІР°С‚РµР»СЏ', 'id РЎС†РµРЅР°СЂРёСЏ', 'Р”Р°С‚Р° Рё РІСЂРµРјСЏ', 'Р РµР·СѓР»СЊС‚Р°С‚ РѕР±СѓС‡РµРЅРёСЏ') VALUES ('" + id_user + "', '" + id_scenario + "', '" + dateTime + "', '" + resultOfTraining + "');";
                 command.ExecuteNonQuery();
 
             }
@@ -50,9 +49,25 @@ public class DB : MonoBehaviour
             using (var command = connection.CreateCommand())
             {
 
-                command.CommandText = "INSERT INTO 'Фактические действия' ('id Сеанса', 'id Сценария', 'id Родителя', 'id Потомка', 'Действие', 'Дата и время действия', 'Название операции') VALUES ('" + id_sessions + "', '" + id_scenario + "', '" + id_parent + "', '" + id_child + "', '" + action + "', '" + datetime + "', '" + nameOperation + "');";
+                command.CommandText = "INSERT INTO 'Р¤Р°РєС‚РёС‡РµСЃРєРёРµ РґРµР№СЃС‚РІРёСЏ' ('id РЎРµР°РЅСЃР°', 'id РЎС†РµРЅР°СЂРёСЏ', 'id Р РѕРґРёС‚РµР»СЏ', 'id РџРѕС‚РѕРјРєР°', 'Р”РµР№СЃС‚РІРёРµ', 'Р”Р°С‚Р° Рё РІСЂРµРјСЏ РґРµР№СЃС‚РІРёСЏ', 'РќР°Р·РІР°РЅРёРµ РѕРїРµСЂР°С†РёРё') VALUES ('" + id_sessions + "', '" + id_scenario + "', '" + id_parent + "', '" + id_child + "', '" + action + "', '" + datetime + "', '" + nameOperation + "');";
                 command.ExecuteNonQuery();
 
+            }
+
+            connection.Close();
+        }
+    }
+
+    public void Deviation()
+    {
+        using (var connection = new SqliteConnection(dbname))
+        {
+            connection.Open();
+
+            using (var command = connection.CreateCommand())
+            {
+                command.CommandText = "INSERT IGNORE INTO 'РћС‚РєР»РѕРЅРµРЅРёРµ' (SELECT 'id РўСЂРµР±СѓРµРјРѕРіРѕ РґРµР№СЃС‚РІРёСЏ' AS 'id РўСЂРµР±СѓРµРјРѕРіРѕ РґРµР№СЃС‚РІРёСЏ' FROM 'РўСЂРµР±СѓРµРјС‹Рµ РґРµР№СЃС‚РІРёСЏ');";
+                command.ExecuteNonQuery();
             }
 
             connection.Close();

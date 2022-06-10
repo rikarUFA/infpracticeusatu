@@ -35,18 +35,18 @@ public class RUSNButtonSwitch : MonoBehaviour, IInteractable
 
             if (objectName == "RUSNButton4")
             {
-                dB.ActualActions(1, 1, 3, 4, "CS", DateTime.Now, "Выбрать " + objectName);
-                dB.ActualActions(1, 1, 4, null, "CI", DateTime.Now, "Отключить " + objectName);
+                dB.ActualActions(1, 1, 3, 4, "CS", DateTime.Now, "Р’С‹Р±СЂР°С‚СЊ " + objectName);
+                dB.ActualActions(1, 1, 4, null, "CI", DateTime.Now, "РћС‚РєР»СЋС‡РёС‚СЊ " + objectName);
             }
             else if (objectName == "RUSNButton5")
             {
-                dB.ActualActions(1, 1, 3, 5, "CS", DateTime.Now, "Выбрать " + objectName);
-                dB.ActualActions(1, 1, 5, null, "CI", DateTime.Now, "Отключить " + objectName);
+                dB.ActualActions(1, 1, 3, 5, "CS", DateTime.Now, "Р’С‹Р±СЂР°С‚СЊ " + objectName);
+                dB.ActualActions(1, 1, 5, null, "CI", DateTime.Now, "РћС‚РєР»СЋС‡РёС‚СЊ " + objectName);
             }
             else
             {
-                dB.ActualActions(1, 1, 3, null, "CS", DateTime.Now, "Выбрать " + objectName);
-                dB.ActualActions(1, 1, null, null, "CI", DateTime.Now, "Отключить " + objectName);
+                dB.ActualActions(1, 1, 3, null, "CS", DateTime.Now, "Р’С‹Р±СЂР°С‚СЊ " + objectName);
+                dB.ActualActions(1, 1, null, null, "CI", DateTime.Now, "РћС‚РєР»СЋС‡РёС‚СЊ " + objectName);
             }
                 
            
@@ -56,18 +56,18 @@ public class RUSNButtonSwitch : MonoBehaviour, IInteractable
                 Debug.Log("RUSN interact on");
                 if (objectName == "RUSNButton4")
                 {
-                    dB.ActualActions(1, 1, 3, 4, "CS", DateTime.Now, "Выбрать " + objectName);
-                    dB.ActualActions(1, 1, 4, null, "CI", DateTime.Now, "Включить " + objectName);
+                    dB.ActualActions(1, 1, 3, 4, "CS", DateTime.Now, "Р’С‹Р±СЂР°С‚СЊ " + objectName);
+                    dB.ActualActions(1, 1, 4, null, "CI", DateTime.Now, "Р’РєР»СЋС‡РёС‚СЊ " + objectName);
                 }
                 else if (objectName == "RUSNButton5")
                 {
-                    dB.ActualActions(1, 1, 3, 5, "CS", DateTime.Now, "Выбрать " + objectName);
-                    dB.ActualActions(1, 1, 5, null, "CI", DateTime.Now, "Включить " + objectName);
+                    dB.ActualActions(1, 1, 3, 5, "CS", DateTime.Now, "Р’С‹Р±СЂР°С‚СЊ " + objectName);
+                    dB.ActualActions(1, 1, 5, null, "CI", DateTime.Now, "Р’РєР»СЋС‡РёС‚СЊ " + objectName);
                 }
                 else
                 {
-                    dB.ActualActions(1, 1, 3, null, "CS", DateTime.Now, "Выбрать " + objectName);
-                    dB.ActualActions(1, 1, null, null, "CI", DateTime.Now, "Включить " + objectName);
+                    dB.ActualActions(1, 1, 3, null, "CS", DateTime.Now, "Р’С‹Р±СЂР°С‚СЊ " + objectName);
+                    dB.ActualActions(1, 1, null, null, "CI", DateTime.Now, "Р’РєР»СЋС‡РёС‚СЊ " + objectName);
                 }
 
             }

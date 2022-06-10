@@ -58,7 +58,7 @@ public class RUSNOpenDoor : MonoBehaviour
 		if (col.tag == "Player")
 		{
 			enter = true;
-            dB.ActualActions(1, 1, 1, 2, "RE", DateTime.Now, "Войти в комнату RUSN");
+            dB.ActualActions(1, 1, 1, 2, "RE", DateTime.Now, "Р’РѕР№С‚Рё РІ РєРѕРјРЅР°С‚Сѓ RUSN");
 		}
 	}
 
