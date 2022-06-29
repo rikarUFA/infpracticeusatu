@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using Valve.VR.InteractionSystem;
 public class CapSW : MonoBehaviour, IInteractable
 {
     IInteractable interactable;
@@ -35,6 +35,9 @@ public class CapSW : MonoBehaviour, IInteractable
 
         //else transform.Rotate(0, 0, 0, Space.World);
     }
-        // Start is called before the first frame update
-              
+    // Start is called before the first frame update
+    public void OnTriggerEnter(Collider other)
+    {
+        if (other.GetComponent<Hand>()) Interact();
     }
+}

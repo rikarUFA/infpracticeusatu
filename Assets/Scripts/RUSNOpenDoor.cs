@@ -52,13 +52,17 @@ public class RUSNOpenDoor : MonoBehaviour
 			open = !open;
 		}
 	}
-	DB dB = new DB();
+	#if UNITY_EDITOR_WIN
+	DB dB;
+	#endif
 	void OnTriggerEnter(Collider col)
 	{
 		if (col.tag == "Player")
 		{
 			enter = true;
+			#if UNITY_EDITOR_WIN
             dB.ActualActions(1, 1, 1, 2, "RE", DateTime.Now, "Войти в комнату RUSN");
+			#endif
 		}
 	}
 

@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+    path: Assets/KRR.unity
+    guid: e047994f0857e1b438d2986244a081dd
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: e0de4cacb6e89f0449f5d265f108494b, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0a6f55721b878674580c7e0a81578f53, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cd5120f6c44e40d48ab0e9f714fd3de2, type: 2}

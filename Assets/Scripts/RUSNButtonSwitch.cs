@@ -23,7 +23,9 @@ public class RUSNButtonSwitch : MonoBehaviour, IInteractable
     {
 
     }
-    DB dB = new DB();
+    #if UNITY_EDITOR_WIN
+    DB dB;
+    #endif
     
     public void Interact()
     {
@@ -32,7 +34,7 @@ public class RUSNButtonSwitch : MonoBehaviour, IInteractable
         {
             x += 90;
             Debug.Log("RUSN interact off");
-
+            #if UNITY_EDITOR_WIN
             if (objectName == "RUSNButton4")
             {
                 dB.ActualActions(1, 1, 3, 4, "CS", DateTime.Now, "Выбрать " + objectName);
@@ -71,6 +73,7 @@ public class RUSNButtonSwitch : MonoBehaviour, IInteractable
                 }
 
             }
+            #endif
         }
 
 

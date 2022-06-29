@@ -1,3 +1,4 @@
+#if UNITY_EDITOR_WIN
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,7 +10,6 @@ using System.ComponentModel.Design;
 
 public class Cube : MonoBehaviour
 {
-    private bool enter=false;
     private string dbname = "URI=file:DB.db";
     // Start is called before the first frame update
     void Start()
@@ -54,11 +54,6 @@ public class Cube : MonoBehaviour
             connection.Close();
         }
     }
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
    
 
@@ -66,13 +61,8 @@ public class Cube : MonoBehaviour
     {
         if (col.tag == "Player")
         {
-            // Insert values in table
-            enter = true;
             Debug.Log("enter");
             AddEvents("Cube", "enter");
-           
-            // куб idobject 1 
-            // шар idobject 2 
         }
     }
 
@@ -80,10 +70,10 @@ public class Cube : MonoBehaviour
     {
         if (col.tag == "Player")
         {
-            enter = false;
             Debug.Log("exit");
             AddEvents("Cube", "exit");
 
         }
     }
 }
+#endif

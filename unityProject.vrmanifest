@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.rtc.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Users\\bigcomp\\Downloads\\infpracticeusatu-master\\infpracticeusatu-master\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "RTC [Testing]"
+        }
+      }
+    }
+  ]
+}
