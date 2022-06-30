@@ -53,12 +53,13 @@ public class RUSNOpenDoor : MonoBehaviour
 		}
 	}
 	DB dB = new DB();
-	void OnTriggerEnter(Collider col)
+	public void OnTriggerEnter(Collider col)
 	{
 		if (col.tag == "Player")
 		{
 			enter = true;
-            dB.ActualActions(1, 1, 1, 2, "RE", DateTime.Now, "Войти в комнату RUSN");
+			string[] values = new string[] {1, 1, 1, 2, "RE", DateTime.Now, "Войти в комнату RUSN"};
+            dB.InsertValues("'Фактические действия'", values);
 		}
 	}
 

@@ -30,6 +30,6 @@ public class SwapColor : MonoBehaviour, IInteractable
         material.color= fcolor? Color.green: Color.red;
         fcolor = !fcolor;
 		text.SetActive(!text.activeSelf);
-        Debug.Log("Cube interact");
+        //Debug.Log("Cube interact");
     }
 }
